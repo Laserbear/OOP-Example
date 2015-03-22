@@ -1,3 +1,5 @@
+#Christian Ng
+#Prompt from MakeSchool
 # -*- coding: utf-8 -*-
 import random  #Library for pseudorandom numbers
 
